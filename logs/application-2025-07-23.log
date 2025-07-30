@@ -1,0 +1,370 @@
+{
+  message: 'Attempt to fetch all tasks',
+  level: 'info',
+  timestamp: '2025-07-23 07:59:14'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  processingTime: 684,
+  level: 'info',
+  message: 'Tasks fetched successfully',
+  timestamp: '2025-07-23 07:59:15'
+}
+{
+  message: 'Attempt to fetch all tasks',
+  level: 'info',
+  timestamp: '2025-07-23 08:19:31'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  processingTime: 260,
+  level: 'info',
+  message: 'Tasks fetched successfully',
+  timestamp: '2025-07-23 08:19:32'
+}
+{
+  message: 'Attempt to fetch all self tasks',
+  level: 'info',
+  timestamp: '2025-07-23 08:23:02'
+}
+{
+  message: 'Attempt to fetch all self tasks',
+  level: 'info',
+  timestamp: '2025-07-23 08:24:39'
+}
+{
+  message: 'Attempt to fetch all self tasks',
+  level: 'info',
+  timestamp: '2025-07-23 08:25:34'
+}
+{
+  message: 'Attempt to fetch all self tasks',
+  level: 'info',
+  timestamp: '2025-07-23 08:26:17'
+}
+{
+  message: 'Attempt to fetch all self tasks',
+  level: 'info',
+  timestamp: '2025-07-23 08:28:02'
+}
+{
+  message: 'Attempt to fetch all self tasks',
+  level: 'info',
+  timestamp: '2025-07-23 08:28:20'
+}
+{
+  message: 'Attempt to fetch all self tasks',
+  level: 'info',
+  timestamp: '2025-07-23 08:29:08'
+}
+{
+  message: 'Attempt to fetch all self tasks',
+  level: 'info',
+  timestamp: '2025-07-23 08:29:28'
+}
+{
+  message: 'Attempt to fetch all self tasks',
+  level: 'info',
+  timestamp: '2025-07-23 08:30:14'
+}
+{
+  message: 'Attempt to fetch all self tasks',
+  level: 'info',
+  timestamp: '2025-07-23 08:40:33'
+}
+{
+  logMeta: { ip: '::ffff:127.0.0.1', userAgent: 'insomnia/11.3.0' },
+  userId: '686cd3a71b131ceb104c2a7a',
+  processingTime: 1629,
+  level: 'info',
+  message: 'Self tasks fetched successfully',
+  timestamp: '2025-07-23 08:40:35'
+}
+{
+  message: 'Attempt to fetch all tasks',
+  level: 'info',
+  timestamp: '2025-07-23 09:33:03'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  processingTime: 166,
+  level: 'info',
+  message: 'Tasks fetched successfully',
+  timestamp: '2025-07-23 09:33:04'
+}
+{
+  message: 'Attempt to fetch all self tasks',
+  level: 'info',
+  timestamp: '2025-07-23 09:33:16'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  userId: '686cd3a71b131ceb104c2a7a',
+  processingTime: 100,
+  level: 'error',
+  message: 'No self tasks found.',
+  timestamp: '2025-07-23 09:33:16'
+}
+{
+  message: 'Attempt to fetch all self tasks',
+  level: 'info',
+  timestamp: '2025-07-23 09:33:31'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  userId: '686cd3a71b131ceb104c2a7a',
+  processingTime: 202,
+  level: 'error',
+  message: 'No self tasks found.',
+  timestamp: '2025-07-23 09:33:31'
+}
+{
+  message: 'Attempt to fetch all self tasks',
+  level: 'info',
+  timestamp: '2025-07-23 09:34:20'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  userId: '686cd3a71b131ceb104c2a7a',
+  processingTime: 249,
+  level: 'error',
+  message: 'No self tasks found.',
+  timestamp: '2025-07-23 09:34:20'
+}
+{
+  message: 'Attempt to fetch all self tasks',
+  level: 'info',
+  timestamp: '2025-07-23 09:35:40'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  userId: '686cd3a71b131ceb104c2a7a',
+  processingTime: 261,
+  level: 'error',
+  message: 'No self tasks found.',
+  timestamp: '2025-07-23 09:35:41'
+}
+{
+  message: 'Attempt to fetch all self tasks',
+  level: 'info',
+  timestamp: '2025-07-23 09:37:13'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  userId: '686cd3a71b131ceb104c2a7a',
+  processingTime: 594,
+  level: 'error',
+  message: 'No self tasks found.',
+  timestamp: '2025-07-23 09:37:14'
+}
+{
+  message: 'Attempt to fetch all self tasks',
+  level: 'info',
+  timestamp: '2025-07-23 09:37:43'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  userId: '686cd3a71b131ceb104c2a7a',
+  processingTime: 149,
+  level: 'error',
+  message: 'No self tasks found.',
+  timestamp: '2025-07-23 09:37:44'
+}
+{
+  message: 'Attempt to fetch all self tasks',
+  level: 'info',
+  timestamp: '2025-07-23 09:38:29'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  userId: '686cd3a71b131ceb104c2a7a',
+  processingTime: 104,
+  level: 'info',
+  message: 'Self tasks fetched successfully',
+  timestamp: '2025-07-23 09:38:29'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.2.0',
+  level: 'info',
+  message: 'Attempt to fetch all users',
+  timestamp: '2025-07-23 09:43:13'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.2.0',
+  processingTime: 84,
+  level: 'info',
+  message: 'Users fetched successfully',
+  timestamp: '2025-07-23 09:43:13'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  title: 'Complete single task fetch api',
+  level: 'info',
+  message: 'Attempt to create a new task',
+  timestamp: '2025-07-23 09:43:31'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  title: 'Complete single task fetch api',
+  taskId: new ObjectId('688076830d861b3c37ace351'),
+  processingTime: 529,
+  level: 'info',
+  message: 'Task created successfully',
+  timestamp: '2025-07-23 09:43:31'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  title: 'Experience Abu Dhabi',
+  level: 'info',
+  message: 'Attempt to create a new task',
+  timestamp: '2025-07-23 09:44:54'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  title: 'Experience Abu Dhabi',
+  taskId: new ObjectId('688076d60d861b3c37ace35c'),
+  processingTime: 473,
+  level: 'info',
+  message: 'Task created successfully',
+  timestamp: '2025-07-23 09:44:55'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.2.0',
+  level: 'info',
+  message: 'Attempt to fetch all users',
+  timestamp: '2025-07-23 09:44:57'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.2.0',
+  processingTime: 132,
+  level: 'info',
+  message: 'Users fetched successfully',
+  timestamp: '2025-07-23 09:44:57'
+}
+{
+  message: 'Attempt to fetch all tasks',
+  level: 'info',
+  timestamp: '2025-07-23 09:45:06'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  processingTime: 180,
+  query: { isSelf: false },
+  level: 'error',
+  message: 'No tasks found for the given query',
+  timestamp: '2025-07-23 09:45:06'
+}
+{
+  message: 'Attempt to fetch all tasks',
+  level: 'info',
+  timestamp: '2025-07-23 09:45:12'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  processingTime: 257,
+  query: { isSelf: false },
+  level: 'error',
+  message: 'No tasks found for the given query',
+  timestamp: '2025-07-23 09:45:12'
+}
+{
+  message: 'Attempt to fetch all tasks',
+  level: 'info',
+  timestamp: '2025-07-23 09:47:01'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  processingTime: 89,
+  query: { isSelf: false },
+  level: 'error',
+  message: 'No tasks found for the given query',
+  timestamp: '2025-07-23 09:47:01'
+}
+{
+  message: 'Attempt to fetch all tasks',
+  level: 'info',
+  timestamp: '2025-07-23 09:48:49'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  processingTime: 127,
+  level: 'info',
+  message: 'Tasks fetched successfully',
+  timestamp: '2025-07-23 09:48:49'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  title: 'Experience Abu Dhabi',
+  level: 'info',
+  message: 'Attempt to create a new task',
+  timestamp: '2025-07-23 09:49:27'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  title: 'Experience Abu Dhabi',
+  taskId: new ObjectId('688077e782752e807f59f385'),
+  processingTime: 261,
+  level: 'info',
+  message: 'Task created successfully',
+  timestamp: '2025-07-23 09:49:27'
+}
+{
+  message: 'Attempt to fetch all tasks',
+  level: 'info',
+  timestamp: '2025-07-23 09:49:35'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  processingTime: 159,
+  level: 'info',
+  message: 'Tasks fetched successfully',
+  timestamp: '2025-07-23 09:49:35'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  level: 'error',
+  message: 'Missing or invalid task id',
+  timestamp: '2025-07-23 09:58:48'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  level: 'error',
+  message: 'Missing or invalid task id',
+  timestamp: '2025-07-23 12:12:30'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  taskId: '688076830d861b3c37ace351',
+  processingTime: 263,
+  level: 'info',
+  message: 'Task fetched successfully',
+  timestamp: '2025-07-23 15:01:09'
+}

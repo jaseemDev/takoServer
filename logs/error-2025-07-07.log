@@ -1,0 +1,260 @@
+{
+  message: 'Missing user id',
+  level: 'error',
+  timestamp: '2025-07-07 10:12:17'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.2.0',
+  level: 'error',
+  message: 'Bad request',
+  timestamp: '2025-07-07 14:43:49'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.2.0',
+  level: 'error',
+  message: 'Bad request',
+  timestamp: '2025-07-07 14:44:04'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.2.0',
+  email: 'johnd@gmail.com',
+  processingTime: 63,
+  level: 'error',
+  message: 'email already exists',
+  timestamp: '2025-07-07 14:47:20'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.2.0',
+  mobile: '0589300101',
+  processingTime: 30,
+  level: 'error',
+  message: 'mobile already exists',
+  timestamp: '2025-07-07 14:47:27'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.2.0',
+  error: 'User validation failed: createdBy: Cast to ObjectId failed for value "" (type string) at path "createdBy" because of "BSONError"',
+  processingTime: 76,
+  level: 'error',
+  message: 'Error creating user',
+  timestamp: '2025-07-07 14:47:32'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.2.0',
+  error: 'User validation failed: createdBy: Cast to ObjectId failed for value "" (type string) at path "createdBy" because of "BSONError"',
+  processingTime: 156,
+  level: 'error',
+  message: 'Error creating user',
+  timestamp: '2025-07-07 14:48:33'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.2.0',
+  error: 'User validation failed: createdBy: Cast to ObjectId failed for value "" (type string) at path "createdBy" because of "BSONError"',
+  processingTime: 41,
+  level: 'error',
+  message: 'Error creating user',
+  timestamp: '2025-07-07 14:50:48'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.2.0',
+  error: 'User validation failed: createdBy: Cast to ObjectId failed for value "" (type string) at path "createdBy" because of "BSONError"',
+  processingTime: 97,
+  level: 'error',
+  message: 'Error creating user',
+  timestamp: '2025-07-07 14:53:23'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.2.0',
+  error: 'generateResetToken is not defined',
+  processingTime: 84,
+  level: 'error',
+  message: 'Error creating user',
+  timestamp: '2025-07-07 15:00:20'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.2.0',
+  email: 'johndo@gmail.com',
+  processingTime: 37,
+  level: 'error',
+  message: 'email already exists',
+  timestamp: '2025-07-07 15:01:24'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.2.0',
+  error: 'crypto.randomBytes is not a function',
+  processingTime: 80,
+  level: 'error',
+  message: 'Error creating user',
+  timestamp: '2025-07-07 15:01:37'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.2.0',
+  email: 'johndo@gmail.com',
+  processingTime: 54,
+  level: 'error',
+  message: 'email already exists',
+  timestamp: '2025-07-07 15:02:23'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.2.0',
+  error: 'Auth validation failed: passwordHash: Path `passwordHash` is required.',
+  processingTime: 105,
+  level: 'error',
+  message: 'Error creating user',
+  timestamp: '2025-07-07 15:02:34'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.2.0',
+  email: 'johndo@gmail.com',
+  processingTime: 33,
+  level: 'error',
+  message: 'email already exists',
+  timestamp: '2025-07-07 15:03:05'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.2.0',
+  error: 'Auth validation failed: passwordHash: Path `passwordHash` is required.',
+  processingTime: 186,
+  level: 'error',
+  message: 'Error creating user',
+  timestamp: '2025-07-07 15:03:42'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.2.0',
+  email: 'johndo@gmail.com',
+  processingTime: 45,
+  level: 'error',
+  message: 'email already exists',
+  timestamp: '2025-07-07 15:04:09'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.2.0',
+  error: 'sendEmail is not defined',
+  processingTime: 129,
+  level: 'error',
+  message: 'Error creating user',
+  timestamp: '2025-07-07 15:04:18'
+}
+{
+  email: 'johndo@gmail.com',
+  ip: '::ffff:127.0.0.1',
+  processingTime: 170,
+  level: 'error',
+  message: 'Incorrect email or password',
+  timestamp: '2025-07-07 15:22:42'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.2.0',
+  error: 'newUserPayload is not defined',
+  processingTime: 797,
+  level: 'error',
+  message: 'Error creating user',
+  timestamp: '2025-07-07 18:24:20'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.2.0',
+  email: 'jane@gmail.com',
+  processingTime: 151,
+  level: 'error',
+  message: 'email already exists',
+  timestamp: '2025-07-07 18:30:01'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.2.0',
+  createdBy: '686bd792242ab0adab395d6e',
+  processingTime: 6,
+  level: 'error',
+  message: 'Only manager can create an executor',
+  timestamp: '2025-07-07 18:35:14'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.2.0',
+  createdBy: '686bd792242ab0adab395d6e',
+  processingTime: 84,
+  level: 'error',
+  message: 'Creator is not active',
+  timestamp: '2025-07-07 18:46:38'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.2.0',
+  createdBy: '686bd792242ab0adab395d6e',
+  processingTime: 90,
+  level: 'error',
+  message: 'Creator is not active',
+  timestamp: '2025-07-07 18:49:53'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.2.0',
+  processingTime: 181,
+  level: 'error',
+  message: 'No valid token found',
+  timestamp: '2025-07-07 18:54:02'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.2.0',
+  email: 'jane1@gmail.com',
+  processingTime: 149,
+  level: 'error',
+  message: 'email already exists',
+  timestamp: '2025-07-07 18:55:21'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.2.0',
+  createdBy: '686bdfe351b2180ccfd3ffdc',
+  processingTime: 139,
+  level: 'error',
+  message: 'Creator is not active',
+  timestamp: '2025-07-07 18:55:48'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.2.0',
+  email: 'jane2@gmail.com',
+  processingTime: 163,
+  level: 'error',
+  message: 'email already exists',
+  timestamp: '2025-07-07 18:56:13'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.2.0',
+  createdBy: '686bdfe351b2180ccfd3ffdc',
+  processingTime: 115,
+  level: 'error',
+  message: 'Creator is not active',
+  timestamp: '2025-07-07 18:57:57'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.2.0',
+  createdBy: '686be09d51b2180ccfd3ffea',
+  processingTime: 105,
+  level: 'error',
+  message: 'Creator is not active',
+  timestamp: '2025-07-07 18:58:52'
+}

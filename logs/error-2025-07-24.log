@@ -1,0 +1,18 @@
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  processingTime: 417,
+  query: { assignedTo: '686cd37c1b131ceb104c2a70', isSelf: false },
+  level: 'error',
+  message: 'No tasks found for the given query',
+  timestamp: '2025-07-24 09:19:14'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  processingTime: 291,
+  query: { tags: { '$in': [] }, isSelf: false },
+  level: 'error',
+  message: 'No tasks found for the given query',
+  timestamp: '2025-07-24 09:19:27'
+}

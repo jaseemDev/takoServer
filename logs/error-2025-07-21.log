@@ -1,0 +1,63 @@
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  level: 'error',
+  message: 'Unauthorized access attempt',
+  timestamp: '2025-07-21 09:06:55'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  level: 'error',
+  message: 'Unauthorized access attempt',
+  timestamp: '2025-07-21 09:07:20'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  level: 'error',
+  message: 'Unauthorized access attempt',
+  timestamp: '2025-07-21 09:37:32'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  level: 'error',
+  message: 'Unauthorized access attempt',
+  timestamp: '2025-07-21 09:37:35'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  level: 'error',
+  message: 'Unauthorized access attempt',
+  timestamp: '2025-07-21 09:37:55'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  level: 'error',
+  message: 'Unauthorized access attempt',
+  timestamp: '2025-07-21 09:39:09'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  level: 'error',
+  message: 'Unauthorized access attempt',
+  timestamp: '2025-07-21 09:39:29'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  level: 'error',
+  message: 'Unauthorized access attempt',
+  timestamp: '2025-07-21 09:47:21'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  level: 'error',
+  message: 'Missing or invalid user Id',
+  timestamp: '2025-07-21 09:54:02'
+}

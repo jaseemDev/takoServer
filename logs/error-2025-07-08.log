@@ -1,0 +1,324 @@
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.2.0',
+  email: 'jane3@gmail.com',
+  processingTime: 1425,
+  level: 'error',
+  message: 'email already exists',
+  timestamp: '2025-07-08 09:12:06'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.2.0',
+  email: 'jane3@gmail.com',
+  processingTime: 209,
+  level: 'error',
+  message: 'email already exists',
+  timestamp: '2025-07-08 09:17:36'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.2.0',
+  createdBy: '686caa1e45d79d766f70a21e',
+  processingTime: 85,
+  level: 'error',
+  message: 'Creator is not active',
+  timestamp: '2025-07-08 09:18:46'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.2.0',
+  email: 'jane3@gmail.com',
+  processingTime: 214,
+  level: 'error',
+  message: 'email already exists',
+  timestamp: '2025-07-08 09:19:38'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.2.0',
+  email: 'jane4@gmail.com',
+  processingTime: 126,
+  level: 'error',
+  message: 'email already exists',
+  timestamp: '2025-07-08 09:24:15'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.2.0',
+  mobile: '0589300106',
+  processingTime: 39,
+  level: 'error',
+  message: 'mobile already exists',
+  timestamp: '2025-07-08 09:24:32'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.2.0',
+  level: 'error',
+  message: 'Bad request',
+  timestamp: '2025-07-08 10:58:15'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.2.0',
+  level: 'error',
+  message: 'Bad request',
+  timestamp: '2025-07-08 10:58:30'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.2.0',
+  level: 'error',
+  message: 'Bad request',
+  timestamp: '2025-07-08 10:58:31'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.2.0',
+  level: 'error',
+  message: 'Bad request',
+  timestamp: '2025-07-08 10:58:41'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.2.0',
+  level: 'error',
+  message: 'Bad request',
+  timestamp: '2025-07-08 10:58:42'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.2.0',
+  level: 'error',
+  message: 'Bad request',
+  timestamp: '2025-07-08 10:58:43'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.2.0',
+  level: 'error',
+  message: 'Bad request',
+  timestamp: '2025-07-08 11:04:49'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.2.0',
+  createdBy: '686cc2d5c5f4f16e72ac8655',
+  processingTime: 85,
+  level: 'error',
+  message: 'Creator is not active',
+  timestamp: '2025-07-08 11:07:13'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.2.0',
+  processingTime: 57,
+  level: 'error',
+  message: 'No valid token found',
+  timestamp: '2025-07-08 11:08:14'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.2.0',
+  level: 'error',
+  message: 'Bad request',
+  timestamp: '2025-07-08 11:27:40'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.2.0',
+  email: 'jaseem@gmail.com',
+  processingTime: 72,
+  level: 'error',
+  message: 'email already exists',
+  timestamp: '2025-07-08 11:57:32'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.2.0',
+  processingTime: 123,
+  level: 'error',
+  message: 'currentUser is not defined',
+  timestamp: '2025-07-08 12:03:51'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.2.0',
+  createdBy: '686cd0d0c7b0203a6221c037',
+  processingTime: 110,
+  level: 'error',
+  message: 'Creator is not active',
+  timestamp: '2025-07-08 12:09:41'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.2.0',
+  createdBy: '686cd0d0c7b0203a6221c037',
+  processingTime: 36,
+  level: 'error',
+  message: 'Creator is not active',
+  timestamp: '2025-07-08 12:10:44'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.2.0',
+  createdBy: '686cd0d0c7b0203a6221c037',
+  processingTime: 52,
+  level: 'error',
+  message: 'Creator is not active',
+  timestamp: '2025-07-08 12:11:48'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.2.0',
+  email: 'jaseem@gmail.com',
+  processingTime: 72,
+  level: 'error',
+  message: 'email already exists',
+  timestamp: '2025-07-08 12:12:53'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.2.0',
+  createdBy: '686cd30d23c8db2be9b4475b',
+  processingTime: 39,
+  level: 'error',
+  message: 'Creator is not active',
+  timestamp: '2025-07-08 12:13:17'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.2.0',
+  createdBy: '686cd30d23c8db2be9b4475b',
+  processingTime: 118,
+  level: 'error',
+  message: 'Only admin can create an this user',
+  timestamp: '2025-07-08 12:13:52'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.2.0',
+  createdBy: '686cd30d23c8db2be9b4475b',
+  processingTime: 55,
+  level: 'error',
+  message: 'Only admin can create this user',
+  timestamp: '2025-07-08 12:14:32'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.2.0',
+  email: 'jaseem1@gmail.com',
+  processingTime: 74,
+  level: 'error',
+  message: 'email already exists',
+  timestamp: '2025-07-08 12:14:42'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.2.0',
+  email: 'jaseem2@gmail.com',
+  processingTime: 165,
+  level: 'error',
+  message: 'email already exists',
+  timestamp: '2025-07-08 12:15:27'
+}
+{
+  email: 'jaseem@gmail.com',
+  ip: '::ffff:127.0.0.1',
+  processingTime: 82,
+  level: 'error',
+  message: 'Incorrect email or password',
+  timestamp: '2025-07-08 12:16:27'
+}
+{
+  email: 'jaseem@gmail.com',
+  ip: '::ffff:127.0.0.1',
+  processingTime: 167,
+  level: 'error',
+  message: 'Incorrect email or password',
+  timestamp: '2025-07-08 12:16:51'
+}
+{
+  email: 'jsm805@gmail.com',
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.2.0',
+  processingTime: 1,
+  level: 'error',
+  message: 'User not found',
+  timestamp: '2025-07-08 12:21:09'
+}
+{
+  email: 'jaseem@gmail.com',
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.2.0',
+  processingTime: 0,
+  error: ReferenceError: generateResetToken is not defined
+      at file:///D:/jaseem/portfolio-proj/Task%20Management/server/controllers/auth/forgotPassword.js:101:43
+      at process.processTicksAndRejections (node:internal/process/task_queues:105:5),
+  level: 'error',
+  message: 'server error',
+  timestamp: '2025-07-08 12:21:23'
+}
+{
+  email: 'jaseem@gmail.com',
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.2.0',
+  processingTime: 1,
+  error: ReferenceError: generateResetToken is not defined
+      at file:///D:/jaseem/portfolio-proj/Task%20Management/server/controllers/auth/forgotPassword.js:101:43
+      at process.processTicksAndRejections (node:internal/process/task_queues:105:5),
+  level: 'error',
+  message: 'server error',
+  timestamp: '2025-07-08 12:22:45'
+}
+{
+  email: 'jaseem@gmail.com',
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.2.0',
+  processingTime: 0,
+  message: 'server error generateResetToken is not defined',
+  level: 'error',
+  timestamp: '2025-07-08 12:23:33'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.2.0',
+  processingTime: 140,
+  level: 'error',
+  message: 'No valid token found',
+  timestamp: '2025-07-08 12:24:33'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.2.0',
+  processingTime: 99,
+  level: 'error',
+  message: 'No valid token found',
+  timestamp: '2025-07-08 12:24:47'
+}
+{
+  message: 'Missing user id',
+  level: 'error',
+  timestamp: '2025-07-08 12:27:36'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.2.0',
+  userId: '686cd0d0c7b0203a6221c037',
+  error: `Cast to ObjectId failed for value "{ sanitizedUserId: '686cd0d0c7b0203a6221c037' }" (type Object) at path "_id" for model "User"`,
+  processingTime: 2,
+  level: 'error',
+  message: 'Error fetching user',
+  timestamp: '2025-07-08 12:30:39'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.2.0',
+  userId: '686cd0d0c7b0203a6221c037',
+  error: `Cast to ObjectId failed for value "{ sanitizedUserId: '686cd0d0c7b0203a6221c037' }" (type Object) at path "_id" for model "User"`,
+  processingTime: 6,
+  level: 'error',
+  message: 'Error fetching user',
+  timestamp: '2025-07-08 12:31:32'
+}

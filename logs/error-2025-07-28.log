@@ -1,0 +1,465 @@
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  title: 'Experience Abu Dhabi',
+  requiredFields: 'assignedTo',
+  level: 'error',
+  message: 'BAD_REQUEST: Missing required fields : assignedTo',
+  timestamp: '2025-07-28 09:36:13'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  level: 'error',
+  message: 'Missing or invalid task id',
+  timestamp: '2025-07-28 13:08:16'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  level: 'error',
+  message: 'Missing or invalid task id',
+  timestamp: '2025-07-28 13:23:05'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  level: 'error',
+  message: 'Missing or invalid task id',
+  timestamp: '2025-07-28 13:23:32'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  level: 'error',
+  message: 'Missing or invalid task id',
+  timestamp: '2025-07-28 13:23:43'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  level: 'error',
+  message: 'Missing or invalid task id',
+  timestamp: '2025-07-28 13:24:21'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  level: 'error',
+  message: 'Missing or invalid task id',
+  timestamp: '2025-07-28 13:25:06'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  level: 'error',
+  message: 'Missing or invalid task id',
+  timestamp: '2025-07-28 13:25:24'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  level: 'error',
+  message: 'Missing or invalid task id',
+  timestamp: '2025-07-28 13:25:36'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  level: 'error',
+  message: 'Missing or invalid task id',
+  timestamp: '2025-07-28 13:25:57'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  level: 'error',
+  message: 'Missing or invalid task id',
+  timestamp: '2025-07-28 13:26:23'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  level: 'error',
+  message: 'Missing or invalid task id',
+  timestamp: '2025-07-28 13:26:50'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  level: 'error',
+  message: 'Missing or invalid task id',
+  timestamp: '2025-07-28 13:26:54'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  level: 'error',
+  message: 'Missing or invalid task id',
+  timestamp: '2025-07-28 13:26:55'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  level: 'error',
+  message: 'Missing or invalid task id',
+  timestamp: '2025-07-28 13:26:56'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  level: 'error',
+  message: 'Missing or invalid task id',
+  timestamp: '2025-07-28 13:26:56'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  level: 'error',
+  message: 'Missing or invalid task id',
+  timestamp: '2025-07-28 13:27:29'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  level: 'error',
+  message: 'Missing or invalid task id',
+  timestamp: '2025-07-28 13:27:44'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  level: 'error',
+  message: 'Missing or invalid task id',
+  timestamp: '2025-07-28 13:28:34'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  level: 'error',
+  message: 'Missing or invalid task id',
+  timestamp: '2025-07-28 13:28:35'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  level: 'error',
+  message: 'Missing or invalid task id',
+  timestamp: '2025-07-28 13:28:35'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  level: 'error',
+  message: 'Missing or invalid task id',
+  timestamp: '2025-07-28 13:28:35'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  level: 'error',
+  message: 'Missing or invalid task id',
+  timestamp: '2025-07-28 13:28:35'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  level: 'error',
+  message: 'Missing or invalid task id',
+  timestamp: '2025-07-28 13:28:36'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  level: 'error',
+  message: 'Missing or invalid task id',
+  timestamp: '2025-07-28 13:28:50'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  level: 'error',
+  message: 'Missing or invalid task id',
+  timestamp: '2025-07-28 13:28:52'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  level: 'error',
+  message: 'Missing or invalid task id',
+  timestamp: '2025-07-28 13:29:16'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  level: 'error',
+  message: 'Missing or invalid task id',
+  timestamp: '2025-07-28 13:29:28'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  level: 'error',
+  message: 'Missing or invalid task id',
+  timestamp: '2025-07-28 13:29:29'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  level: 'error',
+  message: 'Missing or invalid task id',
+  timestamp: '2025-07-28 13:29:29'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  level: 'error',
+  message: 'Missing or invalid task id',
+  timestamp: '2025-07-28 13:29:29'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  level: 'error',
+  message: 'Missing or invalid task id',
+  timestamp: '2025-07-28 13:29:30'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  level: 'error',
+  message: 'Missing or invalid task id',
+  timestamp: '2025-07-28 13:29:30'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  level: 'error',
+  message: 'Missing or invalid task id',
+  timestamp: '2025-07-28 13:29:30'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  level: 'error',
+  message: 'Missing or invalid task id',
+  timestamp: '2025-07-28 13:30:10'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  title: 'Experience Abu Dhabi',
+  requiredFields: 'assignedTo',
+  level: 'error',
+  message: 'BAD_REQUEST: Missing required fields : assignedTo',
+  timestamp: '2025-07-28 13:31:05'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  title: 'Experience Abu Dhabi',
+  incoming: false,
+  existing: false,
+  level: 'error',
+  message: 'CONFLICT: You already have a task with this title',
+  timestamp: '2025-07-28 13:31:22'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  message: 'INTERNAL_SERVER_ERROR: Something wen wrong while fetching all tasks. Please try again later Cannot populate path `updatedBy,` because it is not in your schema. Set the `strictPopulate` option to false to override.',
+  stack: 'StrictPopulateError: Cannot populate path `updatedBy,` because it is not in your schema. Set the `strictPopulate` option to false to override.\n' +
+    '    at getModelsMapForPopulate (D:\\jaseem\\portfolio-proj\\Task Management\\server\\node_modules\\mongoose\\lib\\helpers\\populate\\getModelsMapForPopulate.js:50:12)\n' +
+    '    at _populatePath (D:\\jaseem\\portfolio-proj\\Task Management\\server\\node_modules\\mongoose\\lib\\model.js:4468:21)\n' +
+    '    at Function.populate (D:\\jaseem\\portfolio-proj\\Task Management\\server\\node_modules\\mongoose\\lib\\model.js:4435:21)\n' +
+    '    at model.Query._find (D:\\jaseem\\portfolio-proj\\Task Management\\server\\node_modules\\mongoose\\lib\\query.js:2429:23)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n' +
+    '    at async model.Query.exec (D:\\jaseem\\portfolio-proj\\Task Management\\server\\node_modules\\mongoose\\lib\\query.js:4604:63)\n' +
+    '    at async file:///D:/jaseem/portfolio-proj/Task%20Management/server/controllers/tasks/fetchAllTasks.js:102:19',
+  level: 'error',
+  timestamp: '2025-07-28 13:37:31'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  level: 'error',
+  message: 'Missing or invalid task id',
+  timestamp: '2025-07-28 13:40:46'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  level: 'error',
+  message: 'Missing or invalid task id',
+  timestamp: '2025-07-28 13:42:33'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  level: 'error',
+  message: 'Missing or invalid task id',
+  timestamp: '2025-07-28 13:42:41'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  level: 'error',
+  message: 'Missing or invalid task id',
+  timestamp: '2025-07-28 13:45:22'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  level: 'error',
+  message: 'Missing or invalid task id',
+  timestamp: '2025-07-28 13:47:51'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  level: 'error',
+  message: 'UNPROCESSABLE_ENTITY: You cannot assign task to a requester',
+  timestamp: '2025-07-28 13:55:06'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  level: 'error',
+  message: 'Missing or invalid task id',
+  timestamp: '2025-07-28 14:37:16'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  level: 'error',
+  message: 'Missing or invalid task id',
+  timestamp: '2025-07-28 14:40:26'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  level: 'error',
+  message: 'Missing or invalid task id',
+  timestamp: '2025-07-28 14:41:02'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  level: 'error',
+  message: 'Missing or invalid task id',
+  timestamp: '2025-07-28 14:41:33'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  level: 'error',
+  message: 'Missing or invalid task id',
+  timestamp: '2025-07-28 14:50:05'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  level: 'error',
+  message: 'Missing or invalid task id',
+  timestamp: '2025-07-28 14:50:10'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  level: 'error',
+  message: 'Missing or invalid task id',
+  timestamp: '2025-07-28 14:50:11'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  level: 'error',
+  message: 'Missing or invalid task id',
+  timestamp: '2025-07-28 14:50:24'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  level: 'error',
+  message: 'Missing or invalid task id',
+  timestamp: '2025-07-28 14:56:58'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  level: 'error',
+  message: 'Missing or invalid task id',
+  timestamp: '2025-07-28 14:57:05'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  level: 'error',
+  message: 'Missing or invalid task id',
+  timestamp: '2025-07-28 14:57:06'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  level: 'error',
+  message: 'Missing or invalid task id',
+  timestamp: '2025-07-28 14:57:44'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  level: 'error',
+  message: 'Missing or invalid task id',
+  timestamp: '2025-07-28 14:58:11'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  level: 'error',
+  message: 'Missing or invalid task id',
+  timestamp: '2025-07-28 14:58:23'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  level: 'error',
+  message: 'UNPROCESSABLE_ENTITY: You cannot assign task to a requester',
+  timestamp: '2025-07-28 15:00:11'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  title: 'Feedback form',
+  incoming: false,
+  existing: false,
+  level: 'error',
+  message: 'CONFLICT: You already have a task with this title',
+  timestamp: '2025-07-28 15:01:21'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  title: 'Sentry integration',
+  incoming: false,
+  existing: false,
+  level: 'error',
+  message: 'CONFLICT: You already have a task with this title',
+  timestamp: '2025-07-28 15:03:04'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  title: 'Add bullet point',
+  level: 'error',
+  message: 'BAD_REQUEST: You cannot assign task to yourself',
+  timestamp: '2025-07-28 15:07:23'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  userId: '686cd3a71b131ceb104c2a7a',
+  processingTime: 136,
+  level: 'error',
+  message: 'NOT_FOUND: No self tasks found.',
+  timestamp: '2025-07-28 15:12:44'
+}

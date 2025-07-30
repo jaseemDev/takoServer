@@ -1,0 +1,267 @@
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.2.0',
+  userId: '686cd3a71b131ceb104c2a7a',
+  processingTime: 228,
+  level: 'error',
+  message: 'UNAUTHORIZED',
+  timestamp: '2025-07-20 10:05:46'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.2.0',
+  userId: '686cd37c1b131ceb104c2a70',
+  processingTime: 240,
+  level: 'error',
+  message: 'UNAUTHORIZED',
+  timestamp: '2025-07-20 10:06:02'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.2.0',
+  userId: '686cd30d23c8db2be9b4475b',
+  processingTime: 254,
+  level: 'error',
+  message: 'UNAUTHORIZED',
+  timestamp: '2025-07-20 10:06:15'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  title: 'My first task',
+  error: 'SelfTask is not defined',
+  processingTime: 224,
+  level: 'error',
+  message: 'Error creating task',
+  timestamp: '2025-07-20 12:12:22'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  title: 'My first task',
+  level: 'error',
+  message: 'Duplicate task title for same user',
+  timestamp: '2025-07-20 12:12:50'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  title: 'My first task',
+  error: 'savedTask.populate(...).populate is not a function',
+  processingTime: 327,
+  level: 'error',
+  message: 'Error creating task',
+  timestamp: '2025-07-20 12:13:45'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  title: 'My first task',
+  error: 'Cannot set headers after they are sent to the client',
+  userId: new ObjectId('686cd3a71b131ceb104c2a7a'),
+  level: 'error',
+  message: 'Error creating self task',
+  timestamp: '2025-07-20 12:13:45'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  title: 'My first task',
+  level: 'error',
+  message: 'Duplicate task title for same user',
+  timestamp: '2025-07-20 12:23:34'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  title: 'My first task',
+  error: 'Cannot set headers after they are sent to the client',
+  processingTime: 598,
+  level: 'error',
+  message: 'Error creating task',
+  timestamp: '2025-07-20 12:23:53'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  title: 'My first task',
+  missingFields: [ 'isSelf' ],
+  level: 'error',
+  message: 'Missing required fields',
+  timestamp: '2025-07-20 12:31:10'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  title: 'My first task',
+  level: 'error',
+  message: 'Duplicate task title for same user',
+  timestamp: '2025-07-20 12:33:14'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  title: 'My third task',
+  role: 'executor',
+  level: 'error',
+  message: 'You can only create self tasks',
+  timestamp: '2025-07-20 12:34:20'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  title: 'My third task',
+  error: 'Transaction with { txnNumber: 3 } has been committed.',
+  userId: new ObjectId('686cd37c1b131ceb104c2a70'),
+  level: 'error',
+  message: 'Error creating self task',
+  timestamp: '2025-07-20 12:34:32'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  title: 'My 4th task',
+  error: 'Cannot set headers after they are sent to the client',
+  processingTime: 663,
+  level: 'error',
+  message: 'Error creating task',
+  timestamp: '2025-07-20 12:36:34'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  title: 'My first task',
+  role: 'executor',
+  level: 'error',
+  message: 'You can only create self tasks',
+  timestamp: '2025-07-20 12:38:14'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  title: 'My first task',
+  level: 'error',
+  message: 'Duplicate task title for same user',
+  timestamp: '2025-07-20 12:38:31'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  title: 'My first task',
+  level: 'error',
+  message: 'Duplicate task title for same user',
+  timestamp: '2025-07-20 18:45:55'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  title: 'My second task',
+  level: 'error',
+  message: 'Duplicate task title for same user',
+  timestamp: '2025-07-20 18:46:44'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  title: 'My 4th task',
+  error: `E11000 duplicate key error collection: tako_db.tasks index: title_1_createdBy_1 dup key: { title: "My 4th task", createdBy: ObjectId('686cd3a71b131ceb104c2a7a') }`,
+  processingTime: 539,
+  level: 'error',
+  message: 'Error creating task',
+  timestamp: '2025-07-20 19:03:14'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  title: 'My first task',
+  error: `E11000 duplicate key error collection: tako_db.tasks index: title_1_createdBy_1 dup key: { title: "My first task", createdBy: ObjectId('686cd3a71b131ceb104c2a7a') }`,
+  processingTime: 646,
+  level: 'error',
+  message: 'Error creating task',
+  timestamp: '2025-07-20 19:05:01'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  title: 'My first task',
+  incoming: false,
+  existing: undefined,
+  level: 'error',
+  message: 'Duplicate task',
+  timestamp: '2025-07-20 19:11:44'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  title: 'My first task',
+  incoming: false,
+  existing: {
+    _id: new ObjectId('687d0596785d222d29596702'),
+    title: 'My first task',
+    description: 'THis is a first task adding to test the api',
+    status: new ObjectId('687c87615a1f8a059bacea4a'),
+    priority: 'medium',
+    tags: [ new ObjectId('687ca4e1e8d87c71bb1e713a') ],
+    assignedTo: null,
+    dueDate: 2025-07-07T20:00:00.000Z,
+    createdBy: new ObjectId('686cd3a71b131ceb104c2a7a'),
+    isActive: true,
+    isDeleted: false,
+    isSelf: false,
+    comments: [],
+    createdAt: 2025-07-20T15:04:54.453Z,
+    updatedAt: 2025-07-20T15:04:54.453Z,
+    __v: 0
+  },
+  level: 'error',
+  message: 'Duplicate task',
+  timestamp: '2025-07-20 19:12:55'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  title: 'My first task',
+  incoming: false,
+  existing: false,
+  level: 'error',
+  message: 'Duplicate task',
+  timestamp: '2025-07-20 19:13:55'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  title: 'My first task',
+  error: `E11000 duplicate key error collection: tako_db.tasks index: title_1_createdBy_1_isSelf_1 dup key: { title: "My first task", createdBy: ObjectId('686cd3a71b131ceb104c2a7a'), isSelf: true }`,
+  processingTime: 542,
+  level: 'error',
+  message: 'Error creating task',
+  timestamp: '2025-07-20 19:15:08'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  title: 'My first task',
+  error: `E11000 duplicate key error collection: tako_db.tasks index: title_1_createdBy_1_isSelf_1 dup key: { title: "My first task", createdBy: ObjectId('686cd3a71b131ceb104c2a7a'), isSelf: true }`,
+  processingTime: 717,
+  level: 'error',
+  message: 'Error creating task',
+  timestamp: '2025-07-20 19:16:32'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  title: 'My first task',
+  processingTime: 639,
+  level: 'error',
+  message: 'Duplicate task found',
+  timestamp: '2025-07-20 19:19:07'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  title: 'My first task',
+  processingTime: 591,
+  level: 'error',
+  message: 'Duplicate task found',
+  timestamp: '2025-07-20 19:19:26'
+}

@@ -1,0 +1,51 @@
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.2.0',
+  level: 'error',
+  message: 'Bad request',
+  timestamp: '2025-07-06 11:25:02'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.2.0',
+  level: 'error',
+  message: 'Bad request',
+  timestamp: '2025-07-06 11:25:04'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.2.0',
+  level: 'error',
+  message: 'Bad request',
+  timestamp: '2025-07-06 11:25:05'
+}
+{
+  message: 'Missing user id',
+  level: 'error',
+  timestamp: '2025-07-06 11:29:48'
+}
+{
+  ip: '::1',
+  userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36',
+  level: 'error',
+  message: 'Bad request',
+  timestamp: '2025-07-06 11:50:37'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.2.0',
+  email: 'john@gmail.com',
+  processingTime: 129,
+  level: 'error',
+  message: 'email already exists',
+  timestamp: '2025-07-06 12:46:09'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.2.0',
+  mobile: '0589300100',
+  processingTime: 93,
+  level: 'error',
+  message: 'mobile already exists',
+  timestamp: '2025-07-06 12:46:17'
+}

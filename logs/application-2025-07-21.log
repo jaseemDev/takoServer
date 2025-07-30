@@ -1,0 +1,281 @@
+{
+  message: 'Attempt to fetch all tasks',
+  level: 'info',
+  timestamp: '2025-07-21 09:06:55'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  level: 'error',
+  message: 'Unauthorized access attempt',
+  timestamp: '2025-07-21 09:06:55'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.2.0',
+  level: 'info',
+  message: 'Attempt to fetch all users',
+  timestamp: '2025-07-21 09:07:09'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.2.0',
+  processingTime: 136,
+  level: 'info',
+  message: 'Users fetched successfully',
+  timestamp: '2025-07-21 09:07:10'
+}
+{
+  message: 'Attempt to fetch all tasks',
+  level: 'info',
+  timestamp: '2025-07-21 09:07:19'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  level: 'error',
+  message: 'Unauthorized access attempt',
+  timestamp: '2025-07-21 09:07:20'
+}
+{
+  message: 'Attempt to fetch all tasks',
+  level: 'info',
+  timestamp: '2025-07-21 09:07:32'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  title: 'My second task',
+  level: 'info',
+  message: 'Attempt to create a new task',
+  timestamp: '2025-07-21 09:21:42'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  title: 'My second task',
+  taskId: new ObjectId('687dce66d374675ae48941d2'),
+  processingTime: 432,
+  level: 'info',
+  message: 'Task created successfully',
+  timestamp: '2025-07-21 09:21:42'
+}
+{
+  message: 'Attempt to fetch all tasks',
+  level: 'info',
+  timestamp: '2025-07-21 09:28:39'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  processingTime: 217,
+  level: 'info',
+  message: 'Tasks fetched successfully',
+  timestamp: '2025-07-21 09:28:39'
+}
+{
+  message: 'Attempt to fetch all tasks',
+  level: 'info',
+  timestamp: '2025-07-21 09:29:41'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  processingTime: 109,
+  level: 'info',
+  message: 'Tasks fetched successfully',
+  timestamp: '2025-07-21 09:29:41'
+}
+{
+  message: 'Attempt to fetch all tasks',
+  level: 'info',
+  timestamp: '2025-07-21 09:30:02'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  processingTime: 101,
+  level: 'info',
+  message: 'Tasks fetched successfully',
+  timestamp: '2025-07-21 09:30:02'
+}
+{
+  message: 'Attempt to fetch all tasks',
+  level: 'info',
+  timestamp: '2025-07-21 09:30:30'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  processingTime: 190,
+  level: 'info',
+  message: 'Tasks fetched successfully',
+  timestamp: '2025-07-21 09:30:31'
+}
+{
+  message: 'Attempt to fetch all tasks',
+  level: 'info',
+  timestamp: '2025-07-21 09:37:23'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  processingTime: 124,
+  level: 'info',
+  message: 'Tasks fetched successfully',
+  timestamp: '2025-07-21 09:37:23'
+}
+{
+  message: 'Attempt to fetch all tasks',
+  level: 'info',
+  timestamp: '2025-07-21 09:37:32'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  level: 'error',
+  message: 'Unauthorized access attempt',
+  timestamp: '2025-07-21 09:37:32'
+}
+{
+  message: 'Attempt to fetch all tasks',
+  level: 'info',
+  timestamp: '2025-07-21 09:37:35'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  level: 'error',
+  message: 'Unauthorized access attempt',
+  timestamp: '2025-07-21 09:37:35'
+}
+{
+  message: 'Attempt to fetch all tasks',
+  level: 'info',
+  timestamp: '2025-07-21 09:37:55'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  level: 'error',
+  message: 'Unauthorized access attempt',
+  timestamp: '2025-07-21 09:37:55'
+}
+{
+  message: 'Attempt to fetch all tasks',
+  level: 'info',
+  timestamp: '2025-07-21 09:39:09'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  level: 'error',
+  message: 'Unauthorized access attempt',
+  timestamp: '2025-07-21 09:39:09'
+}
+{
+  message: 'Attempt to fetch all tasks',
+  level: 'info',
+  timestamp: '2025-07-21 09:39:28'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  level: 'error',
+  message: 'Unauthorized access attempt',
+  timestamp: '2025-07-21 09:39:29'
+}
+{
+  message: 'Attempt to fetch all tasks',
+  level: 'info',
+  timestamp: '2025-07-21 09:47:21'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  level: 'error',
+  message: 'Unauthorized access attempt',
+  timestamp: '2025-07-21 09:47:21'
+}
+{
+  message: 'Attempt to fetch all tasks',
+  level: 'info',
+  timestamp: '2025-07-21 09:47:31'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  processingTime: 212,
+  level: 'info',
+  message: 'Tasks fetched successfully',
+  timestamp: '2025-07-21 09:47:31'
+}
+{
+  message: 'Attempt to fetch all tasks',
+  level: 'info',
+  timestamp: '2025-07-21 09:51:28'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  processingTime: 165,
+  level: 'info',
+  message: 'Tasks fetched successfully',
+  timestamp: '2025-07-21 09:51:28'
+}
+{
+  message: 'Attempt to fetch all tasks',
+  level: 'info',
+  timestamp: '2025-07-21 09:51:36'
+}
+{
+  message: 'Attempt to fetch all tasks',
+  level: 'info',
+  timestamp: '2025-07-21 09:51:58'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  processingTime: 154,
+  level: 'info',
+  message: 'Tasks fetched successfully',
+  timestamp: '2025-07-21 09:51:58'
+}
+{
+  message: 'Attempt to fetch all tasks',
+  level: 'info',
+  timestamp: '2025-07-21 09:53:56'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  processingTime: 153,
+  level: 'info',
+  message: 'Tasks fetched successfully',
+  timestamp: '2025-07-21 09:53:57'
+}
+{
+  message: 'Attempt to fetch all tasks',
+  level: 'info',
+  timestamp: '2025-07-21 09:54:02'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  level: 'error',
+  message: 'Missing or invalid user Id',
+  timestamp: '2025-07-21 09:54:02'
+}
+{
+  message: 'Attempt to fetch all tasks',
+  level: 'info',
+  timestamp: '2025-07-21 09:54:07'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  processingTime: 136,
+  level: 'info',
+  message: 'Tasks fetched successfully',
+  timestamp: '2025-07-21 09:54:07'
+}

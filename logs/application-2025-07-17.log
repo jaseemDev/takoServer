@@ -1,0 +1,15 @@
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  level: 'info',
+  message: 'Attempt to fetch tags',
+  timestamp: '2025-07-17 09:30:06'
+}
+{
+  ip: '::ffff:127.0.0.1',
+  userAgent: 'insomnia/11.3.0',
+  processingTime: 64,
+  level: 'info',
+  message: 'No tags found',
+  timestamp: '2025-07-17 09:30:06'
+}
