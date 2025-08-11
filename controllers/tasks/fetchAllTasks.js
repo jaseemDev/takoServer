@@ -77,6 +77,7 @@ const fetchAllTasks = asyncHandler(async (req, res) => {
         break;
       case "manager":
         query.tags = { $in: tagIds };
+        query.assignedTo = userId;
         break;
 
       default:

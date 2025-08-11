@@ -21,6 +21,7 @@ const options = {
     "./routes/auth/authRoutes.js",
     "./routes/status/statusRoutes.js",
     "./routes/tags/tagsRoutes.js",
+    "./routes/tasks/taskRoutes.js",
   ], // Path to the files with Swagger comments
 };
 

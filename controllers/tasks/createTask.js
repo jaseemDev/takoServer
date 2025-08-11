@@ -8,6 +8,7 @@ import Status from "../../models/status/statusSchema.js";
 import SelfTask from "../../models/task/selfTasks/selfTasksSchema.js";
 import User from "../../models/user/userSchema.js";
 import buildLogMeta from "../../utils/logMeta.js";
+import { io, onlineUsers } from "../../index.js";
 
 export const createTask = asyncHandler(async (req, res) => {
   // Start timer for logging
@@ -280,6 +281,19 @@ export const createTask = asyncHandler(async (req, res) => {
       taskId: savedTask._id,
       processingTime: Date.now() - startTime,
     });
+
+    const assignedToSocketId = onlineUsers.get(sanitizedData.assignedTo);
+
+    if (assignedToSocketId) {
+      // Notify the assigned user via WebSocket
+      io.to(assignedToSocketId).emit(
+        "taskAssigned",
+        JSON.stringify({
+          task: populatedTask,
+          message: "You have been assigned a new task",
+        })
+      );
+    }
 
     return res.status(201).json({
       code: "CREATED",

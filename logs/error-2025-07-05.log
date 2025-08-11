@@ -1,7 +1,0 @@
-{
-  ip: '::ffff:127.0.0.1',
-  userAgent: 'insomnia/11.2.0',
-  level: 'error',
-  message: 'Bad request',
-  timestamp: '2025-07-05 10:35:46'
-}

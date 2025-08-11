@@ -5,19 +5,24 @@ import mongoose from "mongoose";
 import Task from "../../models/task/taskSchema.js";
 import User from "../../models/user/userSchema.js";
 
+// Controller to assign a task to a user
 const assignTasks = asyncHandler(async (req, res) => {
+  // Start timer for logging
   const startTime = Date.now();
+
+  // Build log metadata for tracing
   const logMeta = buildLogMeta(req);
   const { taskId, userId } = req.body;
 
   logger.info("Attempt to assign task to a user", logMeta);
 
+  // Extract and sanitize input data
   const sanitizedData = {
     taskId: taskId?.trim(),
     userId: userId?.trim(),
   };
 
-  // Validation
+  // Validate taskId and userId
   if (
     !sanitizedData.taskId ||
     !mongoose.Types.ObjectId.isValid(sanitizedData.taskId)
@@ -45,13 +50,15 @@ const assignTasks = asyncHandler(async (req, res) => {
   }
 
   try {
+    // Find user and task documents
     const user = await User.findById(sanitizedData.userId)
       .select("role name")
       .lean();
     const task = await Task.findById(sanitizedData.taskId)
-      .select("assignedTo")
+      .select("assignedTo, createdBy")
       .lean();
 
+    // Check if user exists
     if (!user) {
       logger.error("NOT_FOUND: No such user found to assign task", logMeta);
       return res.status(404).json({
@@ -62,6 +69,7 @@ const assignTasks = asyncHandler(async (req, res) => {
       });
     }
 
+    // Check if task exists
     if (!task) {
       logger.error("NOT_FOUND: Task not found", logMeta);
       return res.status(404).json({
@@ -72,19 +80,21 @@ const assignTasks = asyncHandler(async (req, res) => {
       });
     }
 
+    // Prevent assigning task to a requester
     if (user.role === "requester") {
       logger.error(
-        "BAD_REQUEST: You cannot assign task to a requester",
+        "UNPROCESSABLE_ENTITY: You cannot assign task to a requester",
         logMeta
       );
       return res.status(422).json({
-        code: "BAD_REQUEST",
+        code: "UNPROCESSABLE_ENTITY",
         success: false,
         message: "You cannot assign task to a requester",
         data: null,
       });
     }
 
+    // Prevent assigning task to the creator
     if (userId === task.createdBy) {
       logger.error("BAD_REQUEST: You cannot assign task to yourself", logMeta);
       return res.status(400).json({
@@ -95,12 +105,14 @@ const assignTasks = asyncHandler(async (req, res) => {
       });
     }
 
+    // Update the task's assignedTo field
     const updatedTask = await Task.findByIdAndUpdate(
       sanitizedData.taskId,
       { assignedTo: sanitizedData.userId },
       { new: true }
     ).populate("assignedTo", "_id name email");
 
+    // Log successful assignment
     logger.info("Task assigned successfully", {
       ...logMeta,
       taskId: updatedTask._id,
@@ -108,6 +120,7 @@ const assignTasks = asyncHandler(async (req, res) => {
       processingTime: Date.now() - startTime,
     });
 
+    // Respond with updated task data
     return res.status(200).json({
       code: "SUCCESS",
       success: true,
@@ -115,6 +128,7 @@ const assignTasks = asyncHandler(async (req, res) => {
       data: updatedTask,
     });
   } catch (error) {
+    // Handle and log server errors
     logger.error("INTERNAL_SERVER_ERROR", {
       ...logMeta,
       error: error.message,

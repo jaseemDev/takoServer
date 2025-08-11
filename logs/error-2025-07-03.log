@@ -1,8 +1,0 @@
-{
-  email: 'jsm805@gmail.com',
-  ip: '::ffff:127.0.0.1',
-  processingTime: 134,
-  level: 'error',
-  message: 'User not found',
-  timestamp: '2025-07-03 18:14:42'
-}
