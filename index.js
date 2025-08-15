@@ -19,7 +19,7 @@ const app = express();
 
 app.use(
   cors({
-    origin: "http://localhost:3000", //allows api calls only from frontend port 3000
+    origin: "http://localhost:5173", //allows api calls only from frontend port 3000
     credentials: true, // set credentials true for setting cookies
   })
 );
